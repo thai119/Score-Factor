@@ -1,0 +1,8 @@
+variables:
+  THRESHOLD: 90
+  RANDOM_STATE_SEED: 42
+  THRESHOLD_LOSS: 0.2
+
+data_path:
+  PROCESSED_DATA_DIR: 'D:\code\gr1\data\Unraveled_PROCESSED'
+
